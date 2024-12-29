@@ -1,11 +1,16 @@
 # 🌟 MyERP
 
-MyERP is an ERP (Enterprise Resource Planning) system designed to streamline and manage various business processes. This project is divided into two main parts: the backend and the frontend. The backend is built using Java and Maven, while the frontend is developed with Angular.
+MyERP is an ERP (Enterprise Resource Planning) system designed to streamline and manage various business processes. This project is divided into three main parts
+
+- Backend using Java and Maven
+- Frontend using Angular
+- DataManagement using Python
 
 ## 🛠️ Technologies Used
 
 - **Backend**: Java, Maven
 - **Frontend**: Angular, TypeScript, SCSS
+- **DataManagement**: Python
 
 ## 🚀 Getting Started
 
@@ -61,7 +66,7 @@ npm install
 3. Start the development server:
 
 ```bash
-npm start
+ng serve
 ```
 
 4. Open your browser and navigate to `http://localhost:4200/`.
